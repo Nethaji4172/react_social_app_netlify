@@ -1,0 +1,28 @@
+{
+  "posts": [
+    {
+      "id": 1,
+      "title": "My first post",
+      "datetime": "July 01, 2021 11:17:36 AM",
+      "body": "Made a video about Tesla Q1 result"
+    },
+    {
+      "id": 3,
+      "title": "Nethaji",
+      "datetime": "July 05, 2023 4:55:11 PM",
+      "body": "The boss"
+    },
+    {
+      "id": 4,
+      "title": "Today",
+      "datetime": "July 05, 2023 4:55:59 PM",
+      "body": "Have a nice day\n"
+    },
+    {
+      "id": 5,
+      "title": "Nethaji the boss",
+      "datetime": "July 05, 2023 9:06:56 PM",
+      "body": "React app is good\n\n"
+    }
+  ]
+}
